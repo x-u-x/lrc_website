@@ -34,3 +34,6 @@ in Wotton village near Dorking.
 If you have any information about the club between the wars we would love to 
 hear from you — please get in touch via the contact details on the home page.
 
+## Further Reading
+
+- [Westcott Rifle Ranges](/lrc_website/history/westcott/) — history of the two disused full bore ranges in the Surrey Hills
