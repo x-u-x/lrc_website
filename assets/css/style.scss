@@ -1,0 +1,17 @@
+---
+---
+
+@import "minima";
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+img + em {
+  display: block;
+  margin-top: 0.5rem;
+  font-size: 0.85em;
+  color: #666;
+}
