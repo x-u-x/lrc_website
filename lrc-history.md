@@ -9,7 +9,7 @@ permalink: /history/lrc/
 ## Formation 1900
 
 <figure>
-  <img src="/lrc_website/assets/images/lrc-history/lrc-1.jpg"
+  <img src="/assets/images/lrc-history/lrc-1.jpg"
        alt="Banner of The Tuesday Mirror and Reigate Borough Advertiser, 3rd April 1900">
   <figcaption>The Tuesday Mirror and Reigate Borough Advertiser, 3rd April 1900.</figcaption>
 </figure>
@@ -24,13 +24,13 @@ compared to the Boers, who could pick off British officers at ranges in
 excess of 1000 yards.
 
 <figure>
-  <img src="/lrc_website/assets/images/lrc-history/lrc-2.jpg"
+  <img src="/assets/images/lrc-history/lrc-2.jpg"
        alt="Formation of Leatherhead and District Rifle Club, part 1">
   <figcaption>Formation of Leatherhead &amp; District Rifle Club, part 1. The Tuesday Mirror &amp; Reigate Borough Advertiser, 3rd April 1900.</figcaption>
 </figure>
 
 <figure>
-  <img src="/lrc_website/assets/images/lrc-history/lrc-3.jpg"
+  <img src="/assets/images/lrc-history/lrc-3.jpg"
        alt="Formation of Leatherhead and District Rifle Club, part 2">
   <figcaption>Formation of Leatherhead &amp; District Rifle Club, part 2. The Tuesday Mirror &amp; Reigate Borough Advertiser, 3rd April 1900.</figcaption>
 </figure>
@@ -72,7 +72,7 @@ Home Guard shooting trophy, presented by Major L J B Aitkens MC who
 commanded A Company, 6th (Leatherhead Battalion) Surrey Home Guard.
 
 <figure>
-  <img src="/lrc_website/assets/images/lrc-history/lrc-4.jpg"
+  <img src="/assets/images/lrc-history/lrc-4.jpg"
        alt="East Surrey Regiment cap badge">
   <figcaption>East Surrey Regiment cap badge — adopted as the LRC club logo. Photo: Richard Collins.</figcaption>
 </figure>
@@ -81,7 +81,7 @@ The 6th Battalion Home Guard was affiliated to the East Surrey Regiment.
 The castle in their cap badge was adopted as our club logo.
 
 <figure>
-  <img src="/lrc_website/assets/images/lrc-history/lrc-5.jpg"
+  <img src="/assets/images/lrc-history/lrc-5.jpg"
        alt="No 24 Platoon, F Company, 6th Surrey Leatherhead Battalion Home Guard, 1941">
   <figcaption>No 24 Platoon, F Company, 6th Surrey (Leatherhead) Battalion Home Guard, 1941. Photo: Richard Collins.</figcaption>
 </figure>
@@ -103,13 +103,13 @@ had existed during 1940–1944 through miniature and full bore rifle shooting
 and other social functions.
 
 <figure>
-  <img src="/lrc_website/assets/images/lrc-history/lrc-6.jpg"
+  <img src="/assets/images/lrc-history/lrc-6.jpg"
        alt="Society of Miniature Rifle Clubs certificate, 30th March 1944">
   <figcaption>Society of Miniature Rifle Clubs certificate #4584, 30th March 1944. Photo: Richard Collins.</figcaption>
 </figure>
 
 <figure>
-  <img src="/lrc_website/assets/images/lrc-history/lrc-7.jpg"
+  <img src="/assets/images/lrc-history/lrc-7.jpg"
        alt="National Small-bore Rifle Association certificate, 8th February 1944">
   <figcaption>National Small-bore Rifle Association certificate #4585, 8th February 1944. Photo: Richard Collins.</figcaption>
 </figure>
@@ -133,7 +133,7 @@ known as Leatherhead Rifle Club ever since.
 - Wotton — 2015 to date
 
 <figure>
-  <img src="/lrc_website/assets/images/lrc-history/lrc-8.jpg"
+  <img src="/assets/images/lrc-history/lrc-8.jpg"
        alt="Members of the re-formed Leatherhead Home Guard, 1950s">
   <figcaption>Past Club President John Crosse (2nd from right) and L.O. Carr (far left), pictured whilst in the Home Guard briefly re-formed in the 1950s under Winston Churchill. John claimed they joined as it gave access to much free shooting. Photo: Richard Collins.</figcaption>
 </figure>
@@ -148,19 +148,19 @@ With a membership of 75 and an active programme of rifle shooting we look
 forward to the years ahead.
 
 <figure>
-  <img src="/lrc_website/assets/images/lrc-history/lrc-9.jpg"
+  <img src="/assets/images/lrc-history/lrc-9.jpg"
        alt="LRC members at the John Pollock Trophy shoot, Bisley, 2022">
   <figcaption>LRC members at the John Pollock Trophy shoot, Bisley, 2022. Photo: Richard Collins.</figcaption>
 </figure>
 
 <figure>
-  <img src="/lrc_website/assets/images/lrc-history/lrc-10.jpg"
+  <img src="/assets/images/lrc-history/lrc-10.jpg"
        alt="LRC winning team for the SCSBRA Forsythe Shield, 2014">
   <figcaption>LRC winning team for the SCSBRA Forsythe Shield, 2014. Photo: Richard Collins.</figcaption>
 </figure>
 
 <figure>
-  <img src="/lrc_website/assets/images/lrc-history/lrc-11.jpg"
+  <img src="/assets/images/lrc-history/lrc-11.jpg"
        alt="LRC winning team for the SCSBRA Forsythe Shield">
   <figcaption>LRC winning team for the SCSBRA Forsythe Shield. Photo: Richard Collins.</figcaption>
 </figure>

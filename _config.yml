@@ -10,8 +10,8 @@ email: info@leatherheadrifleclub.org.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Leatherhead Rifle Club - target shooting in Surrey.
   New members welcome.
-baseurl: "/lrc_website" # the subpath of your site, e.g. /blog
-url: "https://x-u-x.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://leatherheadrifleclub.org.uk" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima

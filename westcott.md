@@ -14,19 +14,19 @@ different distances from separate firing points without crossing a railway
 line. It ceased use in 1962 and the butts were demolished in 2007.
 
 <figure>
-  <img src="/lrc_website/assets/images/westcott/westcott-1.jpg" 
+  <img src="/assets/images/westcott/westcott-1.jpg" 
        alt="Westcott West Range viewed from the firing point">
   <figcaption>Westcott West Range viewed from the firing point. Photo: John Crosse.</figcaption>
 </figure>
 
 <figure>
-  <img src="/lrc_website/assets/images/westcott/westcott-2.jpg" 
+  <img src="/assets/images/westcott/westcott-2.jpg" 
        alt="Location of Westcott Range">
   <figcaption>Location of Westcott Range. OS &amp; Google Map.</figcaption>
 </figure>
 
 <figure>
-  <img src="/lrc_website/assets/images/westcott/westcott-3.jpg" 
+  <img src="/assets/images/westcott/westcott-3.jpg" 
        alt="The butts at Westcott Range">
   <figcaption>The butts at Westcott Range. Photo: Richard Collins.</figcaption>
 </figure>
@@ -41,13 +41,13 @@ Walking the area today you can still find bullet impacts in the chalk and
 the occasional .303 round.
 
 <figure>
-  <img src="/lrc_website/assets/images/westcott/westcott-4.jpg" 
+  <img src="/assets/images/westcott/westcott-4.jpg" 
        alt="Spent .303 bullets recovered from the range area">
   <figcaption>Spent .303 bullets recovered from the range area. Photo: Richard Collins.</figcaption>
 </figure>
 
 <figure>
-  <img src="/lrc_website/assets/images/westcott/westcott-5.jpg" 
+  <img src="/assets/images/westcott/westcott-5.jpg" 
        alt="Surrey Industrial History Group Newsletter 167, January 2009">
   <figcaption>Surrey Industrial History Group Newsletter 167, January 2009. Image: Norma Cox.</figcaption>
 </figure>
@@ -57,31 +57,31 @@ the occasional .303 round.
 The earlier range, built in 1889, is described further below.
 
 <figure>
-  <img src="/lrc_website/assets/images/westcott/westcott-6.jpg" 
+  <img src="/assets/images/westcott/westcott-6.jpg" 
        alt="Location of Westcott East Range">
   <figcaption>Location of Westcott East Range. Google Map.</figcaption>
 </figure>
 
 <figure>
-  <img src="/lrc_website/assets/images/westcott/westcott-7.jpg" 
+  <img src="/assets/images/westcott/westcott-7.jpg" 
        alt="Westcott East Range on modern OS Map">
   <figcaption>Westcott East Range on modern OS Map.</figcaption>
 </figure>
 
 <figure>
-  <img src="/lrc_website/assets/images/westcott/westcott-8.jpg" 
+  <img src="/assets/images/westcott/westcott-8.jpg" 
        alt="Westcott East Range on vintage OS Map">
   <figcaption>Westcott East Range on vintage OS Map.</figcaption>
 </figure>
 
 <figure>
-  <img src="/lrc_website/assets/images/westcott/westcott-9.jpg" 
+  <img src="/assets/images/westcott/westcott-9.jpg" 
        alt="Westcott East Range aerial view">
   <figcaption>Westcott East Range aerial view. Google Map.</figcaption>
 </figure>
 
 <figure>
-  <img src="/lrc_website/assets/images/westcott/westcott-10.jpg" 
+  <img src="/assets/images/westcott/westcott-10.jpg" 
        alt="Westcott East Range on archive OS Map">
   <figcaption>Westcott East Range on archive OS Map.</figcaption>
 </figure>
