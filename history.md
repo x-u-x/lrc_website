@@ -38,3 +38,4 @@ hear from you — please get in touch via the contact details on the home page.
 
 - [Club History in Detail](/history/lrc/) — full history from 1900 to present
 - [Westcott Rifle Ranges](/history/westcott/) — history of the two disused full bore ranges in the Surrey Hills
+- [Westcott Railway Halt](/history/westcott-railway/) — history of the dedicated railway holt for the Westcott Ranges
